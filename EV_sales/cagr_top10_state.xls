@@ -1,0 +1,11 @@
+index,state,vehicle_category,beg_year,end_year,cagr
+65,Uttar Pradesh,4-Wheelers,1200.0,52450.0,5.611227823432901
+9,Assam,4-Wheelers,110.0,3290.0,4.468920451889103
+55,Punjab,4-Wheelers,470.0,10970.0,3.8311929719185187
+25,Haryana,4-Wheelers,1230.0,27620.0,3.7387007241273986
+51,Odisha,4-Wheelers,1410.0,15050.0,2.267071910020994
+62,Tripura,2-Wheelers,336.0,3549.0,2.25
+15,Chhattisgarh,4-Wheelers,1200.0,12570.0,2.2365104665364517
+29,Jammu and Kashmir,4-Wheelers,160.0,1660.0,2.2210246816812815
+53,Puducherry,4-Wheelers,110.0,1110.0,2.1766191290283907
+17,DNH and DD,4-Wheelers,50.0,490.0,2.1304951684997055
