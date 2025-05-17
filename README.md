@@ -68,8 +68,8 @@ This dashboard is useful for:
 | `images/` | Screenshots used in README |
 
 ---
-## Google Collabe
-
+## Open in Google Collabe
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ## 🔗 Connect with Me
 
