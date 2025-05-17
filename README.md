@@ -3,7 +3,7 @@
 
 # ⚡ EV Sales Analysis Dashboard | Python + Power BI
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](https://github.com/saurav190101/EV-sales-Analysis_Python-Power-BI/blob/main/Screenshot%202025-05-17%20164005.png)
 
 ## 📌 Project Overview
 
